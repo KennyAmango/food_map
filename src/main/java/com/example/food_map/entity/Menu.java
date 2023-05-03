@@ -5,7 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.IdClass;
 import javax.persistence.Table;
-
+// ³o¬Obranch1
 @Entity
 @Table(name = "menu")
 @IdClass(value = RestaurantAndMenu.class)
